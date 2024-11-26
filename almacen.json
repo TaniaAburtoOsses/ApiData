@@ -117,5 +117,61 @@
       "img": "https://extensionduoc.s3.us-west-2.amazonaws.com/wp-content/uploads/2021/10/06091823/instagram1-768x768.jpg",
       "descripcion": "Visita a Ruca Mapuche de Macul, conozcamos la religión, comida, costumbres, instrumentos musicales y vestimenta del pueblo Mapuche. ¡Inscríbete para saber más!"
     }
+  ],
+  "inscritos": [
+    { 
+      "id": "a03f",
+      "rut": "123456789",
+      "email": "mariana@mail.cl",
+      "eventoId": "c004",
+      "nombre": "Los videojuegos cambiaron mi vida ",
+      "fecha": "Martes 29 de Octubre",
+      "lugar": "Sede Maipú DuocUC"
+    },
+    { 
+      "id": "a03f",
+      "rut": "123456789",
+      "email": "mariana@mail.cl",
+      "eventoId": "c001",
+      "nombre": "¿Qué es el cambio climático? ",
+      "fecha": "Miércoles 5 de Enero",
+      "lugar": "Sede Plaza Norte DuocUC"
+    },
+    {
+      "id": "a03f",
+      "rut": "123456789",
+      "email": "mariana@mail.cl",
+      "eventoId": "t005",
+      "nombre": "Exposición mural de bordado “Bordando Raíces” ",
+      "fecha": "Miércoles 30 de Octubre",
+      "lugar": "Sede Maipú DuocUC"
+    },
+    {
+      "id": "1",
+      "rut": "123456789",
+      "email": "usuario1@mail.cl",
+      "eventoId": "t005",
+      "nombre": "Exposición mural de bordado “Bordando Raíces” ",
+      "fecha": "Miércoles 30 de Octubre",
+      "lugar": "Sede Maipú DuocUC"
+    },
+    {
+      "id": "2",
+      "rut": "123456781",
+      "email": "usuario2@mail.cl",
+      "eventoId": "t001",
+      "nombre": "Corrida Familiar Solidaria",
+      "fecha": "Domingo 8 de Diciembre",
+      "lugar": "DuocUC Sede Plaza Norte"
+    },
+    {
+      "id": "2",
+      "rut": "123456781",
+      "email": "usuario2@mail.cl",
+      "eventoId": "c001",
+      "nombre": "¿Qué es el cambio climático? ",
+      "fecha": "Miércoles 5 de Enero",
+      "lugar": "Sede Plaza Norte DuocUC"
+    }
   ]
 }

@@ -1,0 +1,121 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "rut": "123456789",
+      "username": "usuario1",
+      "password": "duoc1234",
+      "email": "usuario1@mail.cl",
+      "isactive": true
+    },
+    {
+      "id": "2",
+      "rut": "123456781",
+      "username": "usuario2",
+      "password": "maipu1234",
+      "email": "usuario2@mail.cl",
+      "isactive": true
+    },
+    {
+      "id": "a03f",
+      "rut": "123456789",
+      "username": "mariana",
+      "password": "mariana1",
+      "email": "mariana@mail.cl",
+      "profile": "assets/fotosPerfil/foto3.jpg",
+      "isactive": true
+    }
+  ],
+  "eventos": [
+    {
+      "id": "t001",
+      "nombre": "Corrida Familiar Solidaria",
+      "fecha": "Domingo 8 de Diciembre",
+      "horario": "10:00 hrs.",
+      "lugar": "DuocUC Sede Plaza Norte",
+      "img": "https://extensionduoc.s3.us-west-2.amazonaws.com/wp-content/uploads/2024/08/19174404/WhatsApp-Image-2024-08-19-at-16.41.39-1.jpeg",
+      "descripcion": "Duoc UC A Puertas Abiertas te invita a participar en la Corrida Familiar Solidaria en el circuito Duoc UC sede Plaza Norte para correr el domingo 08 de diciembre. ¡Inscríbete para saber más!"
+    },
+    {
+      "id": "t002",
+      "nombre": "Exposición Imaginario Naturalista ",
+      "fecha": "Miércoles 6 de Noviembre",
+      "horario": "11:00 hrs.",
+      "lugar": "Sede Viña del Mar DuocUC",
+      "img": "https://extensionduoc.s3.us-west-2.amazonaws.com/wp-content/uploads/2024/10/14173217/expo-vina_1110x560.png",
+      "descripcion": "Duoc UC A Puertas Abiertas invita a descubrir la exposición Imaginario Naturalista, una colección de vestuario creada en colaboración entre la marca Floralia de la ilustradora y docente María José Herrada, y la carrera de Diseño de Vestuario de la Sede de Viña del Mar. ¡Inscríbete para saber más!"
+    },
+    {
+      "id": "t003",
+      "nombre": "Ciclo de cine: El valor de las grandes historias ",
+      "fecha": "Viernes 25 de Octubre",
+      "horario": "15:00 hrs.",
+      "lugar": "Sede Maipú DuocUC",
+      "img": "https://extensionduoc.s3.us-west-2.amazonaws.com/wp-content/uploads/2024/09/24172839/WEB_1110x560-copia-2.png",
+      "descripcion": "Duoc UC a Puertas Abiertas te invita a ver la película “Gravedad”. Protagonizada por Sandra Bullock y George Clooney, esta película dirigida por Alfonso Cuarón narra la historia de dos astronautas que quedan a la deriva en el espacio tras un accidente que destruye su transbordador. La doctora Ryan Stone (Bullock) lucha por sobrevivir y encontrar una manera de regresar a la Tierra. ¡Inscríbete para saber más!"
+    },
+    {
+      "id": "t004",
+      "nombre": "Talleres de arte urbano ",
+      "fecha": "Lunes 28 de Octubre",
+      "horario": "15:00 hrs.",
+      "lugar": "Sede Plaza Vespucio DuocUC",
+      "img": "https://extensionduoc.s3.us-west-2.amazonaws.com/wp-content/uploads/2024/08/27170842/TALLERES-ARTE-URBANO_1110x560.png",
+      "descripcion": "Duoc UC A Puertas Abiertas, en su sede Plaza Vespucio, te invitan a participar en el ciclo de talleres de Arte Urbano que tenemos para ti. Realizaremos 3 talleres distintos durante todo el mes: Baile Urbano, Producción y DJ y Freestyle y Rap. ¡Inscríbete para saber más!"
+    },
+    {
+      "id": "t005",
+      "nombre": "Exposición mural de bordado “Bordando Raíces” ",
+      "fecha": "Miércoles 30 de Octubre",
+      "horario": "9:00 hrs.",
+      "lugar": "Sede Maipú DuocUC",
+      "img": "https://extensionduoc.s3.us-west-2.amazonaws.com/wp-content/uploads/2024/06/11102548/mural-bordado-colectivo-2_1110x560-768x561.png",
+      "descripcion": "Duoc UC A Puertas Abiertas invita a ver la flora y fauna de Chile a través de la exposición de la muestra de bordados “BORDANDO RAÍCES”, resultado del concurso organizado por Duoc UC  A Puertas Abiertas, y en donde podrás ver el gran trabajo realizado por las bordadoras que participaron de este concurso. ¡Inscríbete para saber más!"
+    },
+    {
+      "id": "c001",
+      "nombre": "¿Qué es el cambio climático? ",
+      "fecha": "Miércoles 5 de Enero",
+      "horario": "12:00 hrs.",
+      "lugar": "Sede Plaza Norte DuocUC",
+      "img": "https://extensionduoc.s3.us-west-2.amazonaws.com/wp-content/uploads/2022/01/03175159/POST-2-768x768.jpg",
+      "descripcion": "¿Qué es el cambio climático y como éste afecta a los seres vivos? ¡Inscríbete para saber más!"
+    },
+    {
+      "id": "c002",
+      "nombre": "SII: Onligaciones Tributarias ",
+      "fecha": "Lunes 13 de Noviembre",
+      "horario": "15:00 hrs.",
+      "lugar": "Transmisión Youtube DuocUC",
+      "img": "https://extensionduoc.s3.us-west-2.amazonaws.com/wp-content/uploads/2022/06/10093919/OBLIGACIONES-TRIBUTARIAS_Mesa-de-trabajo-1-768x768.png",
+      "descripcion": "Temas a abordar: Obtención de clave tributaria, Inicio de actividades, Emisión de boletas de honorarios, etc. ¡Inscríbete para saber más!"
+    },
+    {
+      "id": "c003",
+      "nombre": "Seminario Internacional sobre San José: Con corazón de padre ",
+      "fecha": "2 y 3 de Diciembre",
+      "horario": "10:00 hrs.",
+      "lugar": "Transmisión Youtube Pastoral DuocUC",
+      "img": "https://extensionduoc.s3.us-west-2.amazonaws.com/wp-content/uploads/2021/11/26122829/seminario-san-jose_pantalla-768x768.png",
+      "descripcion": "Reconocidos charlistas internacionales darán vida al Seminario Internacional sobre san José: “Con corazón de padre”, a realizarse de manera virtual el próximo 2 y 3 de diciembre a las 10:00 horas. Así, la Pastoral Duoc UC dará término al Año de san José, el cual fue convocado por el Papa Francisco en diciembre del año pasado.¡Inscríbete para saber más!"
+    },
+    {
+      "id": "c004",
+      "nombre": "Los videojuegos cambiaron mi vida ",
+      "fecha": "Martes 29 de Octubre",
+      "horario": "12:00 hrs.",
+      "lugar": "Sede Maipú DuocUC",
+      "img": "https://extensionduoc.s3.us-west-2.amazonaws.com/wp-content/uploads/2021/07/28105013/Previsualizacio%E2%95%A0%C3%BCn-1-768x560.png",
+      "descripcion": "Actividad realizada por Attilio Rigotti JR quien presentará las herramientas del videojuego como un instrumento de “salva vidas” a la hora de enfrentar un nuevo proyecto profesional, académico y de vida. ¡Inscríbete para saber más!"
+    },
+    {
+      "id": "c005",
+      "nombre": "Mapuches: Historia y Cultura",
+      "fecha": "Martes 22 de Octubre",
+      "horario": "19:00 hrs.",
+      "lugar": "Transmisión Youtube Sede Alameda DuocUC",
+      "img": "https://extensionduoc.s3.us-west-2.amazonaws.com/wp-content/uploads/2021/10/06091823/instagram1-768x768.jpg",
+      "descripcion": "Visita a Ruca Mapuche de Macul, conozcamos la religión, comida, costumbres, instrumentos musicales y vestimenta del pueblo Mapuche. ¡Inscríbete para saber más!"
+    }
+  ]
+}

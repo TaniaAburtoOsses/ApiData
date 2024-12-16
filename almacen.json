@@ -24,6 +24,40 @@
       "email": "mariana@mail.cl",
       "profile": "assets/fotosPerfil/foto3.jpg",
       "isactive": true
+    },
+    {
+      "id": "0d9f",
+      "rut": "196466118",
+      "username": "florencia",
+      "email": "flor@mail.cl",
+      "password": "florencia1",
+      "profile": "assets/fotosPerfil/p1.avif",
+      "isactive": true
+    },
+    {
+      "id": "bff0",
+      "rut": "",
+      "username": "laika2",
+      "email": "laika@gmail.com",
+      "password": "Laika123",
+      "isactive": true
+    },
+    {
+      "id": "15b9",
+      "rut": "",
+      "username": "Dorida2",
+      "email": "dori@duoc.cl",
+      "password": "doridori2",
+      "isactive": true,
+      "profile": "assets/fotosPerfil/p1.avif"
+    },
+    {
+      "id": "7fa7",
+      "rut": "196466118",
+      "username": "taniayarella",
+      "email": "tan.aburto@duocuc.cl",
+      "password": "florencia1",
+      "isactive": true
     }
   ],
   "eventos": [
@@ -172,6 +206,42 @@
       "nombre": "¿Qué es el cambio climático? ",
       "fecha": "Miércoles 5 de Enero",
       "lugar": "Sede Plaza Norte DuocUC"
+    }
+  ],
+  "inscripciones": [
+    {
+      "id": "e5fd",
+      "rut": "196466118",
+      "eventoId": "c003",
+      "nombre": "Seminario Internacional sobre San José: Con corazón de padre ",
+      "fecha": "2 y 3 de Diciembre",
+      "lugar": "Transmisión Youtube Pastoral DuocUC",
+      "email": "flor@mail.cl"
+    },
+    {
+      "id": "f563",
+      "rut": "196466118",
+      "eventoId": "t001",
+      "nombre": "Corrida Familiar Solidaria",
+      "fecha": "Domingo 8 de Diciembre",
+      "lugar": "DuocUC Sede Plaza Norte",
+      "email": "flor@mail.cl"
+    }
+  ],
+  "comments": [
+    {
+      "id": "618e",
+      "comentario": "aksdhaksdhakjsdhakhdkahdkajd",
+      "idEvento": 0,
+      "nombreEvento": "",
+      "nombreUsuario": "florencia"
+    },
+    {
+      "id": "e44d",
+      "comentario": "oweuroweuroe",
+      "idEvento": 0,
+      "nombreEvento": "",
+      "nombreUsuario": "florencia"
     }
   ]
 }
